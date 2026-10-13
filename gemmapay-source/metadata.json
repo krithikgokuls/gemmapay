@@ -1,0 +1,6 @@
+{
+  "name": "GemmaPay - Open-Weight AI Invoicing & Follow-Up Studio",
+  "description": "Privacy-first side-hustle toolkit powered by Google Gemma open-weight models. Automates professional client invoices, personalized service follow-ups, and income growth with zero cloud data retention.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
